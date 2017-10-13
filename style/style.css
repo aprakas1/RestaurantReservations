@@ -1,0 +1,46 @@
+body {
+	background-image: url("background.jpg");
+                     /* <------ */
+  
+}
+.jumbotron {
+	background-color:#c04300;
+	color: white;
+	text-align:center;
+	border: 1px solid gray;
+	border-radius: 25px;
+    border: 2px solid #5e1b00;
+    padding: 20px; 
+    font-family: 'Acme', sans-serif;
+
+}
+#topMargin {
+	height:30px;
+}
+
+footer {
+
+  
+  background-color: #5e1b00;
+  text-align: center;
+  border: 1px solid #5e1b00;
+  font-family: 'Acme', sans-serif;
+}
+.links {
+	color:white;
+}
+.form-control{
+	text-align:right;
+}
+.well{
+	background-color:#343a40;
+}
+.panel{
+	background-color:#343a40;
+	color:white;
+	 border-radius: 25px;
+    border: 2px solid #ffa600;
+    padding: 20px; 
+   font-family: 'Acme', sans-serif;
+    
+}
